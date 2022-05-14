@@ -82,7 +82,7 @@ In the next part it is explained the development process of KaseiCoin:
 
 Here there is a short video for a better understanding of all the developing process of the KaseiCoin project:
 
-
+https://github.com/Jraigos/KaseiCoin/blob/main/KaseiCoin.mov
 
 
 
