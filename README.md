@@ -30,18 +30,22 @@ In the next part it is explained the development process of KaseiCoin:
 1. The KaseiCoin Token Contract:
 
 </br>
-
+  1.1 Compilation of the contract by using compiler version 0.5.0.
+  
 ![KaseiCoin token compilation](Execution_Results/token1.png)
 </br>
 </br>
-
+  1.2 Deployment
+  
 ![KaseiCoin token deployment](Execution_Results/token2.png)
 </br>
 </br>
-
+  1.3 Generate the Token 
+  
 ![KaseiCoin token transaction](Execution_Results/token3.png)
 </br>
 </br>
+1.4 Transaction
 
 ![KaseiCoin token transaction](Execution_Results/token4.png)
 </br>
@@ -50,37 +54,44 @@ In the next part it is explained the development process of KaseiCoin:
 2. The KaseiCoin Crowdsale Contract:
 
 </br>
-
+  2.1 Compilation of the contract by using compiler version 0.5.0.
+  
 ![KaseiCoin token compilation](Execution_Results/crowdsale1.png)
 </br>
 </br>
 
-![KaseiCoin token deployment](Execution_Results/crowdsale2.png)
+  2.2 Deployment
+  
+
 </br>
 </br>
 
-![KaseiCoin token transaction](Execution_Results/crowdsale3.png)
-</br>
-</br>
-
+  2.4 Transaction
+  
 ![KaseiCoin token transaction](Execution_Results/crowdsale4.png)
 </br>
 </br>
 
+  2.5 Deployment
+  
 ![KaseiCoin token deployment](Execution_Results/crowdsale5.png)
 </br>
 </br>
 
+  2.6 Transaction
+  
 ![KaseiCoin token transaction](Execution_Results/crowdsale6.png)
 </br>
 </br>
 
+  2.7 Transaction
+  
 ![KaseiCoin token transaction](Execution_Results/crowdsale7.png)
 </br>
 </br>
 
 
-Here there is a short video for a better understanding of all the developing process of the KaseiCoin project:
+Here there is a link to a short video for a better understanding of all the developing process of the KaseiCoin project:
 
 https://github.com/Jraigos/KaseiCoin/blob/main/KaseiCoin.mov
 
