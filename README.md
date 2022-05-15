@@ -60,31 +60,31 @@ In the next part it is explained the development process of KaseiCoin:
 </br>
 </br>
 
-  2.2 Deployment
+  2.2 Once the contract is deployed, it is entered the name and symbol of the token, and the wallet address that will receive the payment.
   
 ![KaseiCoin token compilation](Execution_Results/crowdsale2.png)
 </br>
 </br>
 
-  2.3 Transaction
+  2.3 The transaction has been succesfulled mined. 
   
 ![KaseiCoin token transaction](Execution_Results/crowdsale4.png)
 </br>
 </br>
 
-  2.4 Deployment
+  2.4 A new addresses for the crowdsale and the token contracts are created where the payment and the token are going to be located until all the transaction process is finished. 
   
 ![KaseiCoin token deployment](Execution_Results/crowdsale5.png)
 </br>
 </br>
 
-  2.5 Transaction
+  2.5 Afte the address of the beneficiary or buyer of the token, is entered, it is also entered the amount to buy in ETH of the token. In this example it is 3 ETH.
   
 ![KaseiCoin token transaction](Execution_Results/crowdsale6.png)
 </br>
 </br>
 
-  2.6 Transaction
+  2.6 Finally it is displayed the amount in wei raised, the address of the account that receive this amount, and the address of the token.
   
 ![KaseiCoin token transaction](Execution_Results/crowdsale7.png)
 </br>
