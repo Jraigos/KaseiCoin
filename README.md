@@ -62,29 +62,29 @@ In the next part it is explained the development process of KaseiCoin:
 
   2.2 Deployment
   
-
+![KaseiCoin token compilation](Execution_Results/crowdsale2.png)
 </br>
 </br>
 
-  2.4 Transaction
+  2.3 Transaction
   
 ![KaseiCoin token transaction](Execution_Results/crowdsale4.png)
 </br>
 </br>
 
-  2.5 Deployment
+  2.4 Deployment
   
 ![KaseiCoin token deployment](Execution_Results/crowdsale5.png)
 </br>
 </br>
 
-  2.6 Transaction
+  2.5 Transaction
   
 ![KaseiCoin token transaction](Execution_Results/crowdsale6.png)
 </br>
 </br>
 
-  2.7 Transaction
+  2.6 Transaction
   
 ![KaseiCoin token transaction](Execution_Results/crowdsale7.png)
 </br>
